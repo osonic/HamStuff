@@ -1,0 +1,4 @@
+https://wiki.myriadrf.org/Gr-limesdr_Plugin_for_GNURadio#Installing_only_GNU_Radio
+
+
+https://wiki.myriadrf.org/LimeMicro:LMS7002M_Datasheet
