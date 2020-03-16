@@ -1,0 +1,13 @@
+TrueTTY V2.95 - a program for amateur radio
+digital communications via a sound card.
+Supported modes are RTTY, ASCII, PSK31,
+(BPSK and QPSK), BPSK63, QPSK63, BPSK125,
+AMTOR-FEC (SITOR-B, NAVTEX), MFSK16, MFSK8,
+HF- and UHF-PACKET(AX25).
+SELFEC SITOR, AMTOR-ARQ (SITOR-A)
+and DTMF code decoding is possible also.
+No additional hardware required - you 
+need only transceiver and computer with
+a sound card.Optionally you can use simple
+circuit fo PTT-control. Can cooperate with 
+RZ4AG AAlog logger. Shareware.
