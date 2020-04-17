@@ -1,0 +1,57 @@
+[Author]
+AuthorName=JACK
+Callsign=BA5CW
+Email=ba4alc@gmail.com
+[File]
+Revision =3.0
+LastUpdate =2019-09-16
+Description =Worked All Provinces of China
+[Contest]
+Name =BY_WAPC_DX
+DisplayName = Worked All China Provinces
+CabrilloName =WAPC-DX
+Mode =Both
+DupeType = 3
+Multiplier1Name = Sect
+Multiplier2Name =CountryPrefix
+Multiplier3Name =
+Period =
+PointsPerContact = 80m, 2, 40m, 2, 20m, 1, 15m, 1, 10m, 1
+PointsMultByCountry = BY, 2, BV, 2, VR, 2, XX9, 2, BS7, 2, BQ9, 2
+PointsMultByContinent = SameContinent, 1, OtherContinent, 3
+ShowMyCountryStations =
+ShowWarcBands =
+ZoneType =
+MultSqlString =Section
+MultSqlString2 =Country
+MultSqlString3 =
+MultWindowType =BY_WAPC
+IsMultPer = 1
+MultiplierBands =
+CQZoneMultContest =
+NumMults = 2
+BonusPoints =
+QsoErrorString = Any
+EntryWindowInfo = SNTText, 500, SntNrText, 500, RCVText, 500, Exchange1Text, 500
+FrameText = SNT SntNR RCV  Exch
+LogInfo = SentReport, 500, SentNR, 500, ReceiveReport, 500, Exchange1, 500, IsMultiplier1, 500, IsMultiplier2, 500, Points, 500 
+DefaultContestExchange =001
+CabrilloVersion =3.0
+CabrilloFormat = 99
+CabrilloString =SNT, 4, SentNr, 4, CallSign, 13, RCV, 4, Exchange1, 4
+GenericPrintString = SNT, 4, SentNr, 4, CallSign, 15, RCV, 4, Exchange1, 4, RcvNr, 4, Points, 7, Multiplier1, 6, Multiplier2, 4
+GenericPrintStringHeader =Date     Time   Freq   Mode MyCall       Sent      Call            Exch          Points  Mlt1 Mlt2
+IsWorkable = Any
+SpecialInstructions = 
+
+DupeSqlString = 0
+StartOfContest =
+EndOfContest =
+MinimumOffTime =
+UsesWAECountries =
+SetSentTimeForContact =
+ScoreSummaryMultNames =Prv, Cty
+WebAddress = http://www.mulandxc.org/
+DigitalModeSqlString =
+MultipleSessions =
+ResetMultsEverySession = 

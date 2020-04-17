@@ -1,0 +1,14 @@
+Instruciton of N1MM+ user defined contest file settings
+
+There are 3 user defined contest files inside the package:
+
+1 BY_WAPC.sec, Copies this file into the SupportFiles folder of the N1MM+ installation directory.
+2 BY_WAPC_BY.udc, if you are Chinese station, copies this file to N1MM + UserDefinedContests folder in the installation directory.
+3 BY_WAPC_DX.udc, if you are DX station(outside China), copies this file to N1MM + UserDefinedContests folder in the installation directory.
+
+If you cannot find the two folders above in the current installation directory, please check the "My Document directory" . There should be a directory named N1MM Logger+. You can find the corresponding folders.
+
+Open N1MM+ program and find "New Log in Database..."
+Select log type of the contest: BY_WAPC_BY or BY_WAPC_DX)
+Select and set your contest information correctly, including categories, power and mode. Fill in your Sent Exchange(abbreviated of your province if you are Chinese station or 001 if you are Dx station).
+Note: be sure to click the Import Section List button in the right middle of the setting window in order to Import the List information for correct scoring.
